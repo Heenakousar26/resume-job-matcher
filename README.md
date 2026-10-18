@@ -6,8 +6,6 @@ A Python-based web application that analyzes resumes against job descriptions to
 
 **Live Application:** [Open Resume Matcher](https://resume-job-matcher-qciy.onrender.com/)
 
-> Note: Replace the live demo link if your Render URL is different.
-
 ## Features
 
 - **PDF Resume Upload:** Upload a resume in PDF format for analysis.
